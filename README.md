@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masonmarcobello
-- 👀 I’m interested in blockchain, DeFi, machine learning, games, web development, and mobile applications 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Python related projects
+- 👀 I’m interested in Ethereum, Machine Learning, NFTs, Games, Libraries (digital and physical), DAOs
+- 🌱 I’m currently learning JavaScript & Solidity 
+- 💞️ I’m looking to collaborate on **** 
 - 📫 How to reach me: masonmarcobello@protonmail.com
 
 <!---
